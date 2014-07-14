@@ -1,0 +1,7 @@
+[Data]
+Picture=PictClonk
+BaseZoom=1.0
+[Actions]
+A4_SpSh_Draw
+A4_SpSh_DrawSw
+A4_SpSh_DrawSh
